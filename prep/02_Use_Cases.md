@@ -22,6 +22,21 @@ Cette séquence doit devenir un réflexe. Elle t'évite le blanc après l'énonc
 **Et pour conclure (recommandation) :** la réponse d'abord → le pourquoi → le comment → les risques (priorisés par impact × probabilité) → les prochaines étapes (court terme / long terme). 30 à 90 secondes, linéaire et net.
 
 > **Spécial profil tech/ERP :** Olivier n'attend PAS de toi un calcul de part de marché façon MBA. Il va probablement te donner un cas **ERP / transformation / IA** — ton terrain. Ta valeur ajoutée : relier la **techno** à l'**operating model** et à la **valeur business**. Montre que tu penses stratégie *et* exécution.
+>
+> **Ses secteurs : biens de consommation et santé.** Attends-toi à ce que le cas soit habillé dans ces industries (un groupe agroalimentaire, cosmétique, pharmaceutique…). Ça ne change pas la structure, mais ça change les exemples : saisonnalité et promotions en grande consommation, traçabilité et réglementation en santé.
+
+**Les 8 cas de ce document, par probabilité :**
+
+| # | Cas | Type | Probabilité |
+|---|---|---|---|
+| 1 | Migrer vers S/4HANA ? | Stratégie ERP / décision d'investissement | ⭐⭐⭐ |
+| 2 | Programme qui déraille | Turnaround | ⭐⭐⭐ |
+| 3 | IA agentique dans l'ERP ? | Business case IA | ⭐⭐⭐ |
+| 7 | Deux ERP après une fusion | Post-merger | ⭐⭐ |
+| 8 | Agent IA sur les factures | Calcul / ROI | ⭐⭐ |
+| 4 | Réduire les coûts de 15% | Réduction de coûts | ⭐ |
+| 5 | Estimer un volume de commandes | Estimation | ⭐ |
+| 6 | Questions ouvertes | Brainstorm | ⭐⭐ |
 
 ---
 
@@ -229,6 +244,103 @@ D'abord cadrer : décomposer la base de coûts (quelles sont les 3 plus grosses 
 > « On passe d'un ERP qui *enregistre* le travail à un ERP qui *fait* le travail. Aujourd'hui, un humain lit, décide, saisit. Demain, un agent exécute les tâches transactionnelles à règles — commandes, rapprochements, réappro — et l'humain se concentre sur l'exception et la décision. Trois conséquences : moins de travail manuel, des cycles plus courts, et une bascule du rôle de l'humain vers la supervision. Le gagnant ne sera pas celui qui a le meilleur modèle, mais celui qui a les meilleures données et les bons garde-fous. »
 
 **Structure réflexe pour TOUTE question ouverte :** « Je vois ça en 3 axes… » puis 3 buckets MECE, puis une phrase de synthèse qui tranche. Ne jamais lister en vrac.
+
+---
+
+## CAS 7 — POST-FUSION : « Deux entreprises, deux ERP. Que fait-on ? » ⭐ (terrain d'Olivier)
+
+> Olivier a fait du post-merger chez BCG et travaille surtout dans les biens de consommation. Ce cas est très plausible.
+
+**Énoncé :**
+> « Deux groupes de biens de consommation viennent de fusionner. Le groupe A, le plus gros, est sur SAP S/4HANA, migré il y a trois ans. Le groupe B est sur un ERP plus ancien et très personnalisé. Le CEO a promis aux marchés 150 M€ de synergies en trois ans. Il nous demande : que faire des systèmes, et à quel rythme ? »
+
+### Reformulation + objectif
+> « Donc : une fusion entre deux groupes de biens de consommation, deux ERP différents — A sur S/4HANA récent, B sur un ancien ERP personnalisé —, et un engagement de 150 M€ de synergies en trois ans. L'objectif, c'est de définir la stratégie de systèmes qui permet de capter ces synergies, sans casser l'activité. Est-ce que je dois aussi tenir compte de contraintes de Day 1 — par exemple réglementaires ou de reporting financier consolidé ? »
+
+*(Réponse probable : oui, il faut un reporting financier consolidé rapidement ; pas de contrainte de carve-out.)*
+
+### Hypothèse
+> « Mon hypothèse : il ne faut surtout pas commencer par migrer les ERP. Il faut d'abord identifier quelles synergies dépendent vraiment d'un ERP commun — probablement les achats et la supply chain — et séquencer la convergence en fonction de ça. La cible sera très probablement le S/4HANA de A, mais en profitant de la convergence pour revenir à un cœur standard. »
+
+### Structure MECE — 4 blocs
+**1. Les synergies — lesquelles dépendent de l'ERP ?**
+- *Achats* (consolidation des volumes, catalogue commun) → dépend fortement d'une donnée fournisseurs et articles commune.
+- *Supply chain & logistique* (mutualisation des entrepôts, planification commune) → dépend de l'ERP.
+- *Back-office / fonctions support* (centres de services partagés) → dépend d'un ERP et de processus communs.
+- *Revenus* (cross-selling, distribution commune) → dépend surtout des clients et du commercial, moins de l'ERP.
+- → Je chiffrerais la part des 150 M€ qui dépend du système. Hypothèse : de l'ordre de la moitié.
+
+**2. Les options de cible**
+- Garder deux ERP + une couche de consolidation financière (rapide, peu risqué, mais bloque les synergies opérationnelles).
+- Converger sur l'ERP de A (S/4HANA, déjà récent, entité la plus grosse).
+- Converger sur l'ERP de B (peu probable : ancien, personnalisé).
+- Nouvelle plateforme commune (trop long vu l'engagement à trois ans).
+
+**3. Les critères de choix**
+- Couverture fonctionnelle des métiers des deux groupes, taille relative, maturité et coût de chaque système, risque pour la continuité d'activité, délai par rapport aux synergies promises, compétences disponibles.
+
+**4. La trajectoire et les risques**
+- *Day 1* : ne pas toucher aux ERP ; consolidation financière via une couche de reporting.
+- *100 premiers jours* : harmoniser la donnée de référence (fournisseurs, articles), lancer les synergies achats possibles sans ERP commun, construire le core model cible.
+- *Mois 6 à 30* : migration de B vers le core model de A par vagues (par pays ou par division), en commençant par les entités qui portent le plus de synergies.
+- *Risques* : interruption d'activité, départ des talents clés de B, conflit de processus et de culture (« le processus de A s'impose »), et dérive du programme qui retarde les synergies.
+
+### Recommandation
+> « Je recommande de converger vers le S/4HANA du groupe A, mais en trois temps, et en partant des synergies, pas du système.
+>
+> *Pourquoi :* c'est la plateforme la plus récente et la plus grande ; reconstruire une plateforme neuve prendrait trop de temps par rapport à l'engagement de trois ans.
+>
+> *Comment :* au Day 1, on ne touche pas aux ERP et on consolide la finance par une couche de reporting. Dans les 100 jours, on harmonise la donnée de référence et on capte les synergies achats qui ne demandent pas de système commun. Puis on migre B par vagues, en commençant par les entités qui portent le plus de synergies. Et on profite de la convergence pour revenir à un cœur standard — pour ne pas fusionner les deux dettes techniques.
+>
+> *Risques :* la continuité d'activité, d'où les vagues et une forte préparation du cutover ; et la rétention des talents clés de B, qui connaissent les processus.
+>
+> *Next steps :* chiffrer précisément la part des 150 M€ qui dépend du système, et en déduire l'ordre des vagues. »
+
+> **Ton edge :** « Sur les programmes "One ERP" multi-divisions, j'ai vécu exactement cette tension : chaque entité arrive avec ses habitudes. La clé, c'est d'arbitrer entre vrai différenciateur métier et simple habitude — et de le faire avec des chiffres. »
+
+---
+
+## CAS 8 — BUSINESS CASE CHIFFRÉ : « Combien rapporte un agent IA sur les factures ? » (cas calcul)
+
+> Ce cas teste ton calcul mental et ta capacité à tirer un « so what ». Entraîne-toi à le faire **à voix haute, sans calculatrice**.
+
+**Énoncé :**
+> « Un groupe pharmaceutique traite 600 000 factures fournisseurs par an. L'équipe comptabilité fournisseurs compte 40 ETP, avec un coût complet de 60 k€ par ETP. Environ 30% des factures présentent une anomalie — écart de prix, de quantité, réception manquante — et ces exceptions consomment la moitié du temps de l'équipe. On envisage un agent IA. Projet estimé à 1,5 M€ de build, et 0,4 M€ par an de run. Est-ce que ça vaut le coup ? »
+
+### Reformulation + roadmap
+> « 600 000 factures par an, 40 ETP à 60 k€, soit 2,4 M€ de coût d'équipe. 30% d'exceptions qui prennent 50% du temps. Un investissement de 1,5 M€ plus 0,4 M€ par an. La question : quel est le retour, et faut-il y aller ? Je vais procéder en trois temps : les gains de productivité, les autres gains éventuels, puis le retour sur investissement. »
+
+### Calcul (à voix haute)
+**1. Les gains de productivité**
+- Le temps de l'équipe se répartit en 20 ETP sur les factures standards et 20 ETP sur les exceptions.
+- *Factures standards :* hypothèse — l'agent en traite 80% de bout en bout → 0,8 × 20 = **16 ETP libérés**.
+- *Exceptions :* l'agent prépare le dossier, propose une résolution, relance le fournisseur → hypothèse d'un temps divisé par deux → **10 ETP libérés**.
+- Total : **26 ETP sur 40, soit ~65%** — cohérent avec ce qu'on observe sur ce type de processus.
+- Valeur : 26 × 60 k€ = **~1,56 M€ par an**.
+
+**2. Les autres gains (à demander à l'interviewer — montre que tu penses au-delà des coûts)**
+> « Est-ce que les fournisseurs proposent des escomptes pour paiement rapide ? »
+- *Supposons* : 100 M€ d'achats éligibles à un escompte de 2% si payés sous 10 jours ; aujourd'hui on capte l'escompte sur 20% de ce montant, demain sur 60% grâce à la rapidité de traitement → +40% × 100 M€ × 2% = **+0,8 M€ par an**.
+- Gains qualitatifs : moins de doublons et d'erreurs de paiement, meilleure relation fournisseurs, donnée plus propre.
+
+**3. Le retour sur investissement**
+- Gains annuels en régime de croisière : 1,56 + 0,8 ≈ **2,4 M€**.
+- Moins le run : 2,4 − 0,4 = **~2 M€ net par an**.
+- Payback en régime de croisière : 1,5 / 2 ≈ **9 mois**.
+- *Réalisme :* la première année, on ne capte que la moitié des gains (montée en charge, et les ETP ne sont pas libérés du jour au lendemain) → année 1 : 1,2 − 0,4 = 0,8 M€ net → **payback réaliste autour de 15-18 mois**.
+
+### Recommandation
+> « Oui, il faut y aller. En régime de croisière, le projet rapporte environ 2 M€ net par an pour un investissement de 1,5 M€, soit un retour en moins d'un an — de manière plus réaliste en 15 à 18 mois avec la montée en charge.
+>
+> *Point d'attention clé :* les 1,56 M€ de productivité ne sont réels que si on redéploie effectivement les ETP — vers l'analyse des dépenses, la relation fournisseurs ou d'autres priorités, ou via les départs naturels. Sinon, c'est un gain sur le papier. C'est une décision d'organisation, pas de technologie.
+>
+> *Risques :* la qualité des données fournisseurs, et l'acceptation par l'équipe — on démarre avec un humain dans la boucle sur toutes les exceptions.
+>
+> *Next steps :* un pilote de 3 mois sur un périmètre — un pays ou une catégorie de fournisseurs — pour valider les 80% d'automatisation avant de généraliser. »
+
+> **La phrase qui fait la différence :** « Le gain de productivité n'existe que si on décide quoi faire du temps libéré. » — c'est exactement la logique 10-20-70 de BCG (voir Document 4).
+
+**Variantes à t'entraîner seul :** refais le calcul avec 1 M de factures, 50% d'exceptions, ou un coût ETP de 45 k€ (offshore). Vérifie à chaque fois que tu tires le « so what ».
 
 ---
 

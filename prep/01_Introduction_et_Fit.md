@@ -19,7 +19,7 @@ Dans un Round 0 de 30 min, l'intro et le fit pèsent presque autant que le cas. 
 
 > « Avec plaisir. Aujourd'hui je suis Team Lead Consulting et Senior Consultant chez Infor, à Paris, sur l'ERP M3. Concrètement, je dirige une équipe de huit consultants et je porte l'agenda IA d'Infor France.
 >
-> Mon métier au quotidien, c'est de prendre des transformations ERP complexes, internationales, et de les rendre plus rapides, plus simples et plus performantes. J'interviens sur toute la chaîne : la stratégie de transformation en amont avec l'avant-vente, l'architecture cible, et la livraison jusqu'au go-live. J'ai une dizaine de go-live derrière moi, sur cinq industries, une quinzaine de pays, plusieurs milliers d'utilisateurs.
+> Mon métier au quotidien, c'est de prendre des transformations ERP complexes, internationales, et de les rendre plus rapides, plus simples et plus performantes. J'interviens sur toute la chaîne : la stratégie de transformation en amont avec l'avant-vente, l'architecture cible, et la livraison jusqu'au go-live. J'ai plus de huit go-live derrière moi, sur cinq industries, une quinzaine de pays, plusieurs milliers d'utilisateurs.
 >
 > Ces deux dernières années, j'ai pris un virage très clair vers l'IA : j'ai piloté les premiers pilotes de notre modèle de delivery accéléré par l'IA — process mining, RPA, GenAI — et je construis une feuille de route d'agents intelligents directement dans l'ERP, sur l'achat, la planification, la migration de données.
 >
@@ -29,11 +29,11 @@ Dans un Round 0 de 30 min, l'intro et le fit pèsent presque autant que le cas. 
 
 **Version courte (~45-60 s) — si Olivier semble pressé :**
 
-> « Je suis Team Lead Consulting et Senior Consultant chez Infor, sur l'ERP M3. Je dirige une équipe de huit et je porte l'agenda IA d'Infor France. Mon métier : rendre des transformations ERP internationales plus rapides et plus performantes, de la stratégie amont jusqu'au go-live — une dizaine de go-live, cinq industries, une quinzaine de pays. Depuis deux ans je suis passé à fond sur l'agentic AI dans l'ERP. Et je viens vous voir parce que je veux porter ces sujets au niveau stratégique, auprès des dirigeants. »
+> « Je suis Team Lead Consulting et Senior Consultant chez Infor, sur l'ERP M3. Je dirige une équipe de huit et je porte l'agenda IA d'Infor France. Mon métier : rendre des transformations ERP internationales plus rapides et plus performantes, de la stratégie amont jusqu'au go-live — plus de huit go-live, cinq industries, une quinzaine de pays. Depuis deux ans je suis passé à fond sur l'agentic AI dans l'ERP. Et je viens vous voir parce que je veux porter ces sujets au niveau stratégique, auprès des dirigeants. »
 
 **À retenir pour que ce soit naturel :**
 - Ne liste pas ton CV chronologiquement. Donne le **rôle → l'impact → la trajectoire IA → le pourquoi BCG**.
-- Pose ta voix sur les chiffres (« une dizaine de go-live… cinq industries ») — ils ancrent ta crédibilité.
+- Pose ta voix sur les chiffres (« plus de huit go-live… cinq industries ») — ils ancrent ta crédibilité.
 - Finis **toujours** par une transition vers BCG : ça enchaîne naturellement sur « pourquoi BCG ».
 
 ---
@@ -62,7 +62,7 @@ C'est court, c'est imagé, ça résume tout, et ça parle *directement* à un ho
 **Pourquoi cet angle est fort pour Olivier précisément :**
 - Il a lui-même fait le chemin *build → stratégie*. Tu racontes son histoire, version ERP.
 - « De-risker >1 Md€ ERP » et « turnaround supply chain planning » sont littéralement sur son profil. Tu dis que tu veux faire *ça*, en apportant la vision opérationnelle. Il adore.
-- Tu transformes ton seul « manque » apparent (tu n'es pas en strat pure) en **ta force** : tu sais pourquoi les transfos échouent, parce que tu les as sauvées.
+- Tu transformes ton seul « manque » apparent (tu n'es pas en strat pure) en **ta force** : tu sais pourquoi les transfos échouent, parce que tu en as redressé plusieurs de l'intérieur.
 
 ---
 
@@ -88,7 +88,7 @@ C'est court, c'est imagé, ça résume tout, et ça parle *directement* à un ho
 
 **Ancre-toi sur 3 preuves à chaque fois (règle des 3) :**
 1. **Stratégie / cadrage** → business cases d'avant-vente, plusieurs M€.
-2. **Transformation / exécution** → turnarounds de programmes + 10 go-live, T2V -30/40%.
+2. **Transformation / exécution** → turnarounds de programmes + 8+ go-live, T2V -30/40%.
 3. **IA** → 4 pilotes Velocity Suite -70%, roadmap agentique, AI champion France.
 
 ---
@@ -217,6 +217,51 @@ Chaque histoire ci-dessous est réutilisable pour **plusieurs** questions — j'
 
 ---
 
+### HISTOIRE 11 — La data migration industrialisée de A à Z
+**Couvre :** résoudre un problème récurrent · outiller une équipe · data & gouvernance · impact à l'échelle
+
+- **S —** « Sur quasiment tous les programmes ERP, le chantier qui fait glisser le go-live, c'est la reprise de données. Chaque projet la refaisait à la main : extractions Excel, mapping à la main, nettoyage de dernière minute avant le cutover. »
+- **T —** « Dans le cadre du Time-to-Value, j'ai pris le sujet : faire de la migration de données un processus industrialisé, plus un artisanat. »
+- **A —** « J'ai structuré la chaîne de bout en bout en quatre étapes — extraire, nettoyer, mapper, valider — et pour chacune on a outillé : des règles de qualité réutilisables par domaine — articles, fournisseurs, nomenclatures —, des modèles de mapping par industrie, et des contrôles de validation automatiques avant chaque cycle de chargement. Ensuite j'ai mis l'IA dessus : de l'auto-cleansing, de l'enrichissement et des propositions de mapping par LLM, validées par le consultant. Et surtout, je l'ai positionné et déployé sur de vrais projets, pas seulement en démo. **[À VALIDER : déployé sur plusieurs programmes ; cycles de chargement nettement plus courts, nombre d'itérations de migration divisé par deux environ]** »
+- **R —** « La data migration est passée du statut de risque n°1 au cutover à celui de chantier maîtrisé et prévisible. L'apprentissage : on ne gagne pas un go-live au cutover, on le gagne trois mois avant, sur la qualité des données. »
+
+**Pourquoi elle tue :** la fiche de poste cite « data governance » et « data… in an ERP context ». Et Olivier sait que la donnée est ce qui tue les programmes.
+
+---
+
+### HISTOIRE 12 — Intégrer des entreprises et des solutions rachetées dans l'écosystème
+**Couvre :** vision « post-merger » · penser système · travailler en transverse · stratégie produit
+
+- **S —** « Infor grandit aussi par acquisitions : des solutions externes — process mining, outils d'automatisation, briques spécialisées — qu'il faut intégrer dans l'écosystème et surtout rendre utilisables sur les projets clients. »
+- **T —** « Dans l'initiative Time-to-Value, mon rôle était de faire le pont entre ces nouvelles briques et le terrain : comment on les intègre dans notre méthode et nos actifs réutilisables, et comment on les positionne chez les clients. »
+- **A —** « J'ai fait trois choses. J'ai évalué chaque brique au regard des vrais irritants des projets — à quoi ça sert concrètement, pour quel processus. J'ai intégré les bons usages dans la méthode et dans les actifs réutilisables, pour que le consultant n'ait pas à réinventer. Et j'ai porté les premiers positionnements sur des projets pour prouver la valeur. **[À VALIDER : niveau d'implication exact — évaluation, intégration méthode, premiers déploiements]** »
+- **R —** « Des acquisitions qui restaient des logos sur une slide sont devenues des outils utilisés en projet. L'apprentissage : une acquisition ne crée de la valeur que le jour où elle change le quotidien de ceux qui livrent. »
+
+**Pourquoi elle tue :** Olivier a fait du « post-merger performance improvement plan » chez BCG et des partenariats/acquisitions chez Amadeus. Ça lui parle.
+
+---
+
+### HISTOIRE 13 — L'IA comme copilote des consultants (fonctionnels et techniques)
+**Couvre :** innovation interne · conduite du changement · productivité · « AI-first delivery model »
+
+- **S —** « On demandait à l'IA de transformer les processus de nos clients, mais nos propres consultants travaillaient encore comme il y a dix ans : spécifications à la main, paramétrage recherché dans la doc, développements écrits de zéro. »
+- **T —** « Je voulais qu'on applique à nous-mêmes ce qu'on vend : un modèle de delivery « AI-first ». »
+- **A —** « Côté technique, on a mis en place des usages d'assistance au développement — génération et revue de code, de scripts d'extension, de requêtes. Côté fonctionnel, un assistant qui aide le consultant à rédiger les spécifications, retrouver le bon paramétrage, préparer les scénarios de test. Et j'ai fait le travail d'adoption : bibliothèque de prompts par cas d'usage, partage des bonnes pratiques, garde-fous sur les données client. **[À VALIDER : gain de productivité observé sur certaines tâches — par exemple rédaction de specs nettement plus rapide]** »
+- **R —** « Ça a changé la façon de travailler de l'équipe, et ça nous a rendus beaucoup plus crédibles face aux clients sur l'IA : on la pratique avant de la recommander. L'apprentissage : l'adoption de l'IA, c'est 70% de changement de pratiques, pas 70% de techno. »
+
+**Pourquoi elle tue :** la fiche de poste parle explicitement d'« AI first-delivery models ». Et la dernière phrase fait écho au principe BCG 10-20-70 (voir Document 4).
+
+---
+
+### BONUS — « Les quatre go-live » (à placer quand on te demande ton expérience terrain)
+Une manière mémorable de résumer ton vécu, à garder sous le coude :
+
+> « J'ai vécu tous les types de go-live. Le go-live dans la **douleur**, où on reprend un projet qui déraille et où chaque semaine compte. Le go-live dans la **douceur**, quand le cœur standard et la préparation font que le jour J est presque un non-événement. Le go-live **défi**, multi-pays, avec des contraintes de calendrier qu'on ne choisit pas. Et le go-live **bonheur**, quand l'équipe client s'approprie l'outil et qu'on voit les utilisateurs gagner du temps dès la première semaine. Et ce que j'ai appris, c'est que la différence entre le premier et le deuxième se joue presque toujours six mois avant. »
+
+**Pourquoi ça marche :** c'est imagé, c'est vrai, ça montre la profondeur d'expérience — et ça finit sur une leçon de stratège (« ça se joue en amont »), cohérente avec ton « pourquoi BCG ».
+
+---
+
 ## PARTIE C — TABLEAU DE CORRESPONDANCE (quelle histoire pour quelle question)
 
 | Si on te demande… | Histoire principale | Secours |
@@ -234,6 +279,10 @@ Chaque histoire ci-dessous est réutilisable pour **plusieurs** questions — j'
 | S'adapter / zone de confort | H9 Multi-industries | H10 Perso |
 | Orientation business/client | H6 Avant-vente | H3 |
 | Qui es-tu vraiment / motivation | H10 Perso | A1 |
+| Data / gouvernance de données | H11 Data migration | H1 |
+| Post-merger / intégration | H12 Acquisitions | H3 T2V |
+| Changer les pratiques d'une équipe | H13 IA copilote | H5 Équipe |
+| Ton expérience terrain en une phrase | Bonus « 4 go-live » | H1 |
 
 ---
 
