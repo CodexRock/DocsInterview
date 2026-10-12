@@ -1,0 +1,175 @@
+================================================================================
+FILE: Hamza_Archane_BCG2026CV.pdf
+================================================================================
+--- page 1 ---
+— What drives me: curiosity that questions the status quo, clarity that aligns people, and ownership that sees things through.  — 
+ 
+Hamza ARCHANE 
+Team Lead Consulting - Senior Consultant – Time to Value (T2V) Lead  
++33 7 66 45 52 49   ●      2 Passage des Larris, 92400 Courbevoie, France ●   hamzaarchane@gmail.com 
+ 
+ 
+ 
+Lead consultant on large, international cloud-ERP transformations — aerospace, chemicals, food & beverage and industrial 
+manufacturing — making complex programs faster, leaner and higher-performing by reconstructing the real current state, 
+standardizing to high-value process cores, and embedding agentic AI to compress time-to-value. Four promotions in under six 
+years to Team Lead and end-to-end supply-chain lead on major programs; today I lead an eight-person team and Infor France's 
+AI agenda, with hands-on depth across supply-chain planning, manufacturing, sales and procurement. 
+ 
+EXPERIENCE 
+INFOR | Paris - Team Lead, Consulting / Senior Supply chain Consultant – M3 ERP                       Sept 2020 – Present 
+Junior Consultant → Consultant → Senior Consultant → Lead Project Architect → Team Lead 
+ 
+● Functional and architecture lead on "One ERP" transformations — SAFRAN (Cabin, Seats and more, worldwide), 
+ANDROS (Multi divisions; worldwide) and others: set the target architecture and unified supply-chain planning, sales and 
+procurement into one operating model. 8+ go-lives across 5 industries, 15 countries and ~7,000+ users. 
+ 
+● Co-led Infor Southern Europe's Time-to-Value initiative — Codified deep sector and business expertise into reusable 
+IPC: sub-vertical reference process libraries that start each program from a pre-validate 70% standard native industry 
+core, compressing implementation timelines by 30–40% and cutting custom development by 50%. 
+ 
+● Represented France in shaping Infor's Velocity Suite - AI-accelerated delivery model – contributing in the design of field-
+grounded use-cases of high-value advanced AI functionality (Infor Process Mining, RPA, GenAI)— then led the first 4 
+client Velocity Suite pilots, from pain-point analysis to go-live, cutting manual effort by 70% on targeted processes. 
+ 
+● AI champion for France, bridging field consultants and AI R&D – translating customers and projects pain points into a 
+roadmap of process-specific agentic AI solutions: procurement (PO processing, invoice matching), manufacturing 
+(scheduling, Smart Pegging Agent), and data migration (Auto-cleansing, enrichment, field mapping & validation) 
+ 
+● Guided Lead and mentor a team of eight functional and technical consultants recognized for turning complex 
+architecture into one shared vision that aligns every stakeholder, from shop floor to Comex. 
+ 
+● Partnered with sales in pre-sales in multi-Millon € won opportunities, framing client requirements and building the value 
+case for transformation. 
+ 
+L’Oréal | Paris – Junior Industry 4.0 Consultant - Digital manufacturing performance           Jan - Jul 2019 
+● Supported the migration of Siemens Teamcenter (PLM), interfaced with SAP — data migration, cross-functional 
+coordination and cutover.
+ 
+EDUCATION 
+Georgia Institute of Technology | Master of Science, Mechanical and Aerospace Engineering - Atlanta, GA     2018 - 2020 
+● GPA: 4.0/4.0 
+INSA de Lyon| Industrial & Mechanical engineering - Lyon, FR - Ranked: 3/150 Students      2016 – 2020 
+INSA de Lyon| Preparatory cycle 2014/2016 - Lyon, FR - Ranked: 10/800 Students 2014 - 2016 
+ 
+LEADERSHIP EXPERIENCES 
+  Enable | Design, Production & Assembly - 3D printed bionic hands association - Paris, FR                                       2019 
+INSA de Lyon’s Astronomy Club | Vice president - Lyon, FR                                                                                2014/2016 
+Scuba Diving & Lifeguard Manager. Georgia Tech's Aquatics center - Atlanta, GA                                                2019/2020 
+Finalist - Mathematics and Physics local Olympiads 2010 & 2012 | AIESEC Brazil Volunteer Feb 2015 
+ 
+SKILLS & LANGUAGES 
+● ERP strategy & transformation: ERP strategy & target roadmap · business-case & value definition · process standardization & 
+core-model design · change management · time-to-value · pain-point-driven AI solution design 
+● AI, data: agentic AI & genAI in ERP · AI-first delivery models · process mining · advanced analytics · data governance & migration  
+● Consulting & leadership: hypothesis-driven problem-solving · executive communication & facilitation · multi-level stakeholder 
+alignment around a shared vision · leading cross-functional, multi-industry programs  
+● Languages: English, French & Arabic: Fluent | Spanish: Beginner  
+
+================================================================================
+FILE: Hamza_Archane_2026_Res.pdf
+================================================================================
+--- page 1 ---
+-What drives me: curiosity to challenge assumptions, clarity to bring people together, and ownership to see things through - 
+HAMZA ARCHANE 
+Courbevoie, France  |  +33 7 66 45 52 49  |  hamzaarchane@gmail.com 
+FORWARD DEPLOYED ARCHITECT | ENTERPRISE ERP & AI SOLUTIONS DELIVERY LEAD 
+Forward Deployed Architect and consulting team lead at Infor, with six years in enterprise transformation and 
+hands-on experience in Python, SaaS management systems and mobile app development. Led four Velocity Suite AI 
+pilots from customer pain-point analysis to go-live, reducing manual effort by 70% on targeted processes. 
+EXPERIENCE 
+INFOR | Paris, France Sep 2020 – Present 
+Team Lead, Consulting & Forward Deployed Architect 
+Progression: Junior Associate → Associate -> Consultant → Senior Consultant → Lead Project Architect → Team Lead, FDA 
+• Led the first four client Velocity Suite pilots in France, from pain-point analysis through go-live; reduced manual 
+effort by 70% on targeted processes using Infor’s AI-powered solution portfolio. 
+ 
+• Represented France in shaping Velocity Suite use cases spanning generative AI, process mining and robotic 
+process automation; brought customer delivery needs into solution design. 
+ 
+• Translated customer and project challenges into an agentic AI roadmap with AI R&D: purchase-order processing, 
+invoice matching, manufacturing scheduling, Smart Pegging, and data cleansing, mapping and validation. 
+ 
+• Led functional architecture for global ERP transformations at SAFRAN and ANDROS, unifying supply-chain 
+planning, sales and procurement. Delivery portfolio spans 8+ go-lives, 5 industries, 15 countries and 
+approximately 7,000+ users. 
+ 
+• Co-led Southern Europe’s Time-to-Value initiative, creating reusable industry process libraries with a 70% 
+standard core; shortened implementation timelines by 30–40% and reduced custom development by 50%. 
+ 
+• Lead and mentor eight functional and technical consultants, aligning architecture decisions with operational 
+teams and executives. Partnered with sales on requirements and business cases for multimillion-euro wins. 
+L’ORÉAL | Paris, France Jan 2019 – Jul 2019 
+Junior Industry 4.0 Consultant | Digital Manufacturing Performance 
+• Supported the migration of Siemens Teamcenter PLM, interfaced with SAP, through data migration, cross-
+functional coordination and cutover. 
+• Led a strategic smart-packaging project across EMEA to address product diversion in distribution channels. 
+EDUCATION 
+Georgia Institute of Technology | Atlanta, USA 2018 – 2020 
+Master of Science, Mechanical and Aerospace Engineering | GPA 4.0/4.0 
+INSA de Lyon | Lyon, France 2016 – 2020 
+Industrial & Mechanical Engineering | Ranked 3rd of 150 students 
+LEADERSHIP EXPERIENCES 
+Enable | Design, production and assembly of 3D-printed bionic hands | Paris | 2019 
+INSA de Lyon Astronomy Club | Vice President | Lyon | 2014–2016 
+Georgia Tech Aquatics Center | Scuba Diving & Lifeguard Manager | Atlanta | 2019–2020 
+Local Mathematics and Physics Olympiads | Finalist | 2010 & 2012 
+AIESEC | Volunteer | Brazil | Feb 2015 
+SKILLS AND LANGUAGES 
+Software development: Python; development of SaaS management systems and mobile applications. 
+AI and enterprise systems: Agentic AI use-case design, generative AI in ERP, Velocity Suite, Infor M3, process 
+mining, data governance and migration. 
+Customer delivery: Solution architecture, AI pilots, requirements discovery, reusable delivery patterns, executive 
+communication, cross-functional leadership. 
+Languages: French, English and Arabic: fluent | Spanish: beginner. 
+
+================================================================================
+FILE: Hamza_Archane_Google_FDE_Resume.pdf
+================================================================================
+--- page 1 ---
+HAMZA ARCHANE
+Courbevoie, France  |  +33 7 66 45 52 49  |  hamzaarchane@gmail.com
+FORWARD DEPLOYED ARCHITECT | ENTERPRISE ERP & AI SOLUTIONS DELIVERY LEAD
+Forward Deployed Architect and consulting team lead at Infor, with six years in enterprise transformation and 
+hands-on experience in Python, SaaS management systems and mobile app development. Led four Velocity Suite AI 
+pilots from customer pain-point analysis to go-live, reducing manual effort by 70% on targeted processes.
+EXPERIENCE
+INFOR | Paris, France Sep 2020 – Present
+Team Lead, Consulting & Forward Deployed Architect
+Progression: Junior Consultant → Consultant → Senior Consultant → Lead Project Architect → Team Lead
+ Led the first four client Velocity Suite pilots from pain-point analysis through go-live; reduced manual effort by 
+70% on targeted processes using Infor’s AI-powered solution portfolio.
+ Represented France in shaping Velocity Suite use cases spanning generative AI, process mining and robotic 
+process automation; brought customer delivery needs into solution design.
+ Translated customer and project challenges into an agentic AI roadmap with AI R&D: purchase-order processing, 
+invoice matching, manufacturing scheduling, Smart Pegging, and data cleansing, mapping and validation.
+ Led functional architecture for global ERP transformations at SAFRAN and ANDROS, unifying supply-chain 
+planning, sales and procurement. Delivery portfolio spans 8+ go-lives, 5 industries, 15 countries and 
+approximately 7,000+ users.
+ Co-led Southern Europe’s Time-to-Value initiative, creating reusable industry process libraries with a 70% 
+standard core; shortened implementation timelines by 30–40% and reduced custom development by 50%.
+ Lead and mentor eight functional and technical consultants, aligning architecture decisions with operational 
+teams and executives. Partnered with sales on requirements and business cases for multimillion-euro wins.
+L’ORÉAL | Paris, France Jan 2019 – Jul 2019
+Junior Industry 4.0 Consultant | Digital Manufacturing Performance
+ Supported the migration of Siemens Teamcenter PLM, interfaced with SAP, through data migration, cross-
+functional coordination and cutover.
+ Led a strategic smart-packaging project across EMEA to address product diversion in distribution channels.
+EDUCATION
+Georgia Institute of Technology | Atlanta, USA 2018 – 2020
+Master of Science, Mechanical and Aerospace Engineering | GPA 4.0/4.0
+INSA de Lyon | Lyon, France 2016 – 2020
+Industrial & Mechanical Engineering | Ranked 3rd of 150 students
+LEADERSHIP EXPERIENCES
+Enable | Design, production and assembly of 3D-printed bionic hands | Paris | 2019
+INSA de Lyon Astronomy Club | Vice President | Lyon | 2014–2016
+Georgia Tech Aquatics Center | Scuba Diving & Lifeguard Manager | Atlanta | 2019–2020
+Local Mathematics and Physics Olympiads | Finalist | 2010 & 2012
+AIESEC | Volunteer | Brazil | Feb 2015
+SKILLS AND LANGUAGES
+Software development: Python; development of SaaS management systems and mobile applications.
+AI and enterprise systems: Agentic AI use-case design, generative AI in ERP, Velocity Suite, Infor M3, process 
+mining, data governance and migration.
+Customer delivery: Solution architecture, AI pilots, requirements discovery, reusable delivery patterns, executive 
+communication, cross-functional leadership.
+Languages: French, English and Arabic: fluent | Spanish: beginner.
