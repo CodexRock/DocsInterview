@@ -1,0 +1,10 @@
+# macOS system folders and metadata
+/System/
+/private/
+/.VolumeIcon.icns
+.DS_Store
+
+# Temporary PDF previews and Python caches
+/tmp/
+__pycache__/
+*.pyc

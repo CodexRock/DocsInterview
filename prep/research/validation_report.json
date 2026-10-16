@@ -1,0 +1,347 @@
+{
+  "arithmetic_checks": 49,
+  "all_arithmetic_passed": true,
+  "daily_minutes": 180,
+  "interview_paris_offset_hours": 2,
+  "pdfs": [
+    {
+      "file": "00_Commencer_Ici.pdf",
+      "pages": 2,
+      "links": 1
+    },
+    {
+      "file": "01_Introduction_et_Fit.pdf",
+      "pages": 8,
+      "links": 1
+    },
+    {
+      "file": "02_Use_Cases.pdf",
+      "pages": 6,
+      "links": 0
+    },
+    {
+      "file": "03_Questions_Reponses.pdf",
+      "pages": 6,
+      "links": 0
+    },
+    {
+      "file": "04_Informations_a_Connaitre.pdf",
+      "pages": 6,
+      "links": 11
+    },
+    {
+      "file": "05_Cheat_Sheet_et_Conseils.pdf",
+      "pages": 6,
+      "links": 1
+    },
+    {
+      "file": "06_Guide_Interviewer_et_Corriges.pdf",
+      "pages": 12,
+      "links": 0
+    },
+    {
+      "file": "07_Recherche_et_Audit.pdf",
+      "pages": 5,
+      "links": 28
+    }
+  ],
+  "master_pages": 53,
+  "edge_issues": [],
+  "checks": [
+    {
+      "check": "C1 team cost",
+      "actual": 2.4,
+      "expected": 2.4,
+      "passed": true
+    },
+    {
+      "check": "C1 capacity ETP",
+      "actual": 26.0,
+      "expected": 26,
+      "passed": true
+    },
+    {
+      "check": "C1 capacity hours",
+      "actual": 41600,
+      "expected": 41600,
+      "passed": true
+    },
+    {
+      "check": "C1 cash labor",
+      "actual": 0.6,
+      "expected": 0.6,
+      "passed": true
+    },
+    {
+      "check": "C1 extra discounts",
+      "actual": 0.7999999999999999,
+      "expected": 0.8,
+      "passed": true
+    },
+    {
+      "check": "C1 year 1",
+      "actual": 0.29999999999999993,
+      "expected": 0.3,
+      "passed": true
+    },
+    {
+      "check": "C1 cash payback months",
+      "actual": 26.400000000000002,
+      "expected": 26.4,
+      "passed": true
+    },
+    {
+      "check": "C1 from build months",
+      "actual": 29.4,
+      "expected": 29.4,
+      "passed": true
+    },
+    {
+      "check": "C1 3yr cash",
+      "actual": 0.8,
+      "expected": 0.8,
+      "passed": true
+    },
+    {
+      "check": "C1 threshold upfront at 24mo",
+      "actual": 1.3,
+      "expected": 1.3,
+      "passed": true
+    },
+    {
+      "check": "C1 required price reduction",
+      "actual": 0.13333333333333333,
+      "expected": 0.13333333333333333,
+      "passed": true
+    },
+    {
+      "check": "C1 full capture payback months",
+      "actual": 16.408163265306122,
+      "expected": 16.4081632653,
+      "passed": true
+    },
+    {
+      "check": "C1 no discount payback",
+      "actual": 9.0,
+      "expected": 9,
+      "passed": true
+    },
+    {
+      "check": "C2 option A",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "check": "C2 option B",
+      "actual": 8,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "check": "C2 option C",
+      "actual": 11,
+      "expected": 11,
+      "passed": true
+    },
+    {
+      "check": "C2 payback C months",
+      "actual": 25.0,
+      "expected": 25,
+      "passed": true
+    },
+    {
+      "check": "C2 payback A months",
+      "actual": 33.33333333333333,
+      "expected": 33.33333333,
+      "passed": true
+    },
+    {
+      "check": "C2 C stress",
+      "actual": 3.1999999999999993,
+      "expected": 3.2,
+      "passed": true
+    },
+    {
+      "check": "C3 complete",
+      "actual": 14,
+      "expected": 14,
+      "passed": true
+    },
+    {
+      "check": "C3 reduced",
+      "actual": 21,
+      "expected": 21,
+      "passed": true
+    },
+    {
+      "check": "C3 critical test rate",
+      "actual": 0.75,
+      "expected": 0.75,
+      "passed": true
+    },
+    {
+      "check": "C4 D cash",
+      "actual": 27,
+      "expected": 27,
+      "passed": true
+    },
+    {
+      "check": "C4 E cash",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "check": "C4 D annual total",
+      "actual": 135,
+      "expected": 135,
+      "passed": true
+    },
+    {
+      "check": "C4 residual target",
+      "actual": 15,
+      "expected": 15,
+      "passed": true
+    },
+    {
+      "check": "C5 recovery",
+      "actual": 9400.0,
+      "expected": 9400,
+      "passed": true
+    },
+    {
+      "check": "C5 resulting OTIF",
+      "actual": 0.934,
+      "expected": 0.934,
+      "passed": true
+    },
+    {
+      "check": "C5 remaining orders",
+      "actual": 600,
+      "expected": 600,
+      "passed": true
+    },
+    {
+      "check": "C6 initial result",
+      "actual": 3200000.0,
+      "expected": 3200000.0,
+      "passed": true
+    },
+    {
+      "check": "C6 new result",
+      "actual": 2600000.0,
+      "expected": 2600000.0,
+      "passed": true
+    },
+    {
+      "check": "C6 new price result",
+      "actual": 2920000.0,
+      "expected": 2920000.0,
+      "passed": true
+    },
+    {
+      "check": "C6 max volume drop",
+      "actual": 0.11111111111111105,
+      "expected": 0.1111111111111111,
+      "passed": true
+    },
+    {
+      "check": "C6 extra B units",
+      "actual": 2800.0,
+      "expected": 2800,
+      "passed": true
+    },
+    {
+      "check": "C7 build",
+      "actual": 0.40000000000000013,
+      "expected": 0.4,
+      "passed": true
+    },
+    {
+      "check": "C7 buy",
+      "actual": 1.2625000000000002,
+      "expected": 1.2625,
+      "passed": true
+    },
+    {
+      "check": "C7 buy payback months",
+      "actual": 8.454545454545455,
+      "expected": 8.4545454545,
+      "passed": true
+    },
+    {
+      "check": "C8 large volume",
+      "actual": 20160000.0,
+      "expected": 20160000.0,
+      "passed": true
+    },
+    {
+      "check": "C8 medium volume",
+      "actual": 14400000.0,
+      "expected": 14400000.0,
+      "passed": true
+    },
+    {
+      "check": "C8 TAM",
+      "actual": 6912000.0,
+      "expected": 6912000.0,
+      "passed": true
+    },
+    {
+      "check": "C8 SAM",
+      "actual": 4147200.0,
+      "expected": 4147200.0,
+      "passed": true
+    },
+    {
+      "check": "C8 SOM volume",
+      "actual": 3110400.0,
+      "expected": 3110400.0,
+      "passed": true
+    },
+    {
+      "check": "C8 annual result",
+      "actual": -333440.0,
+      "expected": -333440.0,
+      "passed": true
+    },
+    {
+      "check": "C8 threshold volume share",
+      "actual": 0.25720164609053503,
+      "expected": 0.2572016461,
+      "passed": true
+    },
+    {
+      "check": "Drill DSO",
+      "actual": 10000000.0,
+      "expected": 10000000.0,
+      "passed": true
+    },
+    {
+      "check": "Drill DIO",
+      "actual": 4000000.0,
+      "expected": 4000000.0,
+      "passed": true
+    },
+    {
+      "check": "Drill CAGR",
+      "actual": 0.10000000000000009,
+      "expected": 0.1,
+      "passed": true
+    },
+    {
+      "check": "Drill growth",
+      "actual": 108.90000000000003,
+      "expected": 108.9,
+      "passed": true
+    },
+    {
+      "check": "Drill NPV",
+      "actual": 19.99999999999998,
+      "expected": 20,
+      "passed": true
+    }
+  ],
+  "visual_review": "All booklet pages and combined cover/index rendered and visually reviewed; no clipping, overlapping text, broken tables, or missing glyphs observed."
+}

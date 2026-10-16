@@ -1,191 +1,188 @@
-# DOCUMENT 5 — CHEAT SHEET & CONSEILS
-### BCG · Round 0 · Olivier Ratier · mer. 21 octobre · 11h00-11h30 · Zoom · 100% français
+# 05 - Entraînement et fiche de révision
 
-> **Partie 1 = la page à garder à côté de toi pendant l'entretien** (imprime-la ou ouvre-la sur un deuxième écran, **hors du champ de la caméra**).
-> **Partie 2 = les conseils et le plan d'entraînement** jusqu'au jour J.
+## Trois heures par jour, du 15 au 20 octobre
+
+Tu as indiqué pouvoir consacrer trois heures ou plus par jour et avoir déjà pratiqué des cas. Le plan utilise **trois heures de travail actif**, avec de courtes pauses entre blocs. Il garde C3, C8 et C4 pour les simulations afin de conserver une part de découverte.
+
+Les durées sont un cadre d'organisation. Si un échec récurrent apparaît, remplace un cas supplémentaire par la répétition du passage qui coince.
+
+## Jeudi 15 octobre - Positionnement et capture de valeur
+
+- **30 min :** pitch et motivation. Trois prises à voix haute, en variant les mots ; une version de 40 secondes et une de 70.
+- **35 min :** défense du CV : périmètre des chiffres, rôle, maturité des pilotes. Marquer ce qui reste non documenté.
+- **40 min :** C1 en quinze minutes, puis débrief et reprise du payback.
+- **20 min :** calculs 1 à 5 ci-dessous, puis explication orale de chaque méthode.
+- **35 min :** une histoire réelle, répétée avec trois relances. Comparaison avec F1 ou F3 fictif.
+- **20 min :** C9 : changer une hypothèse sans modifier le récit réel.
+
+## Vendredi 16 octobre - Choix de trajectoire et rentabilité
+
+- **20 min :** pitch sans support ; réponse SAP en 45 secondes.
+- **45 min :** C2, débrief, puis recommandation en 45 secondes.
+- **45 min :** C6, débrief, puis refaire prix-volume-mix.
+- **20 min :** calculs 6 à 10.
+- **30 min :** conflit et échec : une histoire réelle chacun, ou scénarios fictifs en répétition technique.
+- **20 min :** notions financières du document 04 ; équations sur feuille blanche.
+
+## Samedi 17 octobre - Diagnostic et mise à l'échelle
+
+- **40 min :** C5 et débrief ; refaire le calcul d'OTIF et de l'écart à la cible.
+- **40 min :** C7 et débrief ; comparer les mêmes horizons.
+- **25 min :** calculs 11 à 15.
+- **30 min :** lecture personnelle des deux articles BCG du document 04 ; noter une idée retenue, une limite et une question.
+- **25 min :** management et avant-vente ; relances sur rôle individuel et travail d'équipe.
+- **20 min :** réponse courte à « Pourquoi un agent ? » et « Pourquoi ne pas faire d'IA ? ».
+
+## Dimanche 18 octobre - Simulation A et décisions difficiles
+
+- **15 min :** échauffement : pitch et trois calculs.
+- **30 min :** simulation A avec C3, sans lecture préalable de son corrigé.
+- **30 min :** débrief avec grille ; relever les phrases et instants précis.
+- **30 min :** refaire la plus grande faiblesse, puis une recommandation avec complication.
+- **30 min :** C10, puis discussion des critères éliminatoires.
+- **25 min :** calculs 16 à 20.
+- **20 min :** choisir deux questions pour Olivier et travailler une relance naturelle.
+
+## Lundi 19 octobre - Simulation B et chiffres sous pression
+
+- **15 min :** échauffement, sans réciter de longs textes.
+- **30 min :** simulation B avec C8, données cachées.
+- **35 min :** débrief, seuil et unités ; refaire une estimation avec un autre volume.
+- **30 min :** défense des résultats CV : trois questions de suite sur une seule affirmation.
+- **25 min :** reprise d'un calcul raté et d'un mini-cas déjà fait avec données modifiées.
+- **25 min :** histoire réelle de leadership ; réponses raccourcies à 45 secondes.
+- **20 min :** lecture du journal d'erreurs et dernier passage sur SAP/Dynamics.
+
+## Mardi 20 octobre - Simulation C et consolidation
+
+- **15 min :** échauffement léger.
+- **30 min :** simulation C avec C4, sans voir le guide.
+- **30 min :** débrief et une reprise ciblée.
+- **25 min :** trois objections au fit : expérience, SAP, niveau d'entrée.
+- **25 min :** raconter deux expériences réelles sans support, puis écouter les relances.
+- **20 min :** test Zoom et connexion de secours, tenue, environnement, contact RH.
+- **20 min :** fiche de révision et quatre équations.
+- **15 min :** clôturer les points ouverts et arrêter. Pas de nouvelle banque de cas le soir.
 
 ---
 
-# PARTIE 1 — LA CHEAT SHEET (à côté de toi le jour J)
+## Trois simulations de trente minutes
 
-## ① Mes chiffres (à placer naturellement)
-- **4 promotions en < 6 ans** → Team Lead · **équipe de 8**
-- **8+ go-live · 5 industries · 15 pays · plusieurs milliers d'utilisateurs** (~7 000+)
-- **Time-to-Value :** cœur standard à **70%** → délais **−30 à 40%**, spécifique **−50%**
-- **Velocity Suite :** **4 premiers pilotes** clients en France → effort manuel **−70%** (processus ciblés)
-- **AI champion France** · roadmap d'agents : commandes d'achat, factures, ordonnancement, Smart Pegging, data migration
-- **Avant-vente :** opportunités à **plusieurs millions d'euros**
-- **SAFRAN, ANDROS** — programmes « One ERP » multi-divisions, mondiaux
-- **Georgia Tech 4.0/4.0 · INSA Lyon 3ᵉ/150 · L'Oréal** (PLM ↔ SAP)
+Le partenaire choisit le rythme, garde les données du guide et peut raccourcir le fit. Ces scénarios représentent des possibilités d'entretien, pas des prédictions.
 
-## ② Mon pitch en 4 temps (75-90 s)
-**Aujourd'hui** (Team Lead, équipe de 8, agenda IA France) → **Mon métier** (transformations ERP plus rapides, du cadrage au go-live, 8+ go-live) → **Le virage IA** (pilotes, agents dans l'ERP) → **Perso** (30 ans, Casablanca, plongée, rando, voyages) → **Pourquoi je suis là** (porter ces sujets au niveau stratégique, avec les dirigeants).
+### Simulation A - Crédibilité du parcours et arbitrage ERP
 
-## ③ Mes phrases-signature
-- **Pourquoi BCG :** *« Aujourd'hui je corrige en aval des décisions prises en amont. Je veux être en amont. »*
-- **Pourquoi l'ERP :** *« L'ERP, c'est la colonne vertébrale transactionnelle de l'entreprise. Avec l'IA agentique, il passe d'un système qui enregistre le travail à un système qui le fait. »*
-- **SAP vs Infor :** *« L'éditeur change, la physique d'un programme ERP ne change pas. »*
-- **Pourquoi les programmes échouent :** *« L'écart entre l'état déclaré et l'état réel. »*
-- **IA :** *« La RPA exécute, la GenAI comprend, l'agent décide et agit dans un cadre. »*
-- **Valeur de l'IA :** *« Le gain n'existe que si on décide quoi faire du temps libéré. »* (→ 10-20-70 de BCG)
-- **Expérience :** *« J'ai vécu tous les go-live : dans la douleur, dans la douceur, le défi, le bonheur. Et la différence se joue six mois avant. »*
+**0-3 min :** accueil et pitch. **3-6 :** pourquoi ce poste et BCG. **6-10 :** une décision ERP et ton rôle précis. **10-13 :** limite SAP et apprentissage. **13-27 :** C3, continuer/réduire/arrêter puis go-live. **27-30 :** une ou deux questions et fin.
 
-## ④ Les 3 preuves « suis-je le bon profil ? »
-1. **Cadrer** → business cases en avant-vente (plusieurs M€)
-2. **Transformer** → programmes redressés + 8+ go-live + T2V −30/40%
-3. **Innover** → 4 pilotes IA −70% + roadmap agentique
+Relance fit : « Quelle décision avez-vous personnellement influencée ? » Interruption de cas : « Oubliez le passé : qu'est-ce qu'on fait maintenant ? »
 
-## ⑤ Le cas — la séquence réflexe
-1. **Reformuler** (chiffres en %) → 2. **Vérifier l'objectif** (« autre objectif ? ») → 3. **1-2 questions** de clarification → 4. **60-90 s de silence**, structure **MECE** en 3-4 buckets, annoncée → 5. **Hypothèse** → analyser, toujours **externe avant interne** → 6. **Recommandation :** réponse → pourquoi → comment → risques → next steps.
+### Simulation B - Un chiffre du CV sous examen
 
-**Mes structures toutes prêtes :**
-- *Stratégie ERP :* Pourquoi → Quoi (état réel) → Comment (brown/green/sélectif, vagues) → Valeur & risques
-- *Turnaround :* Diagnostic (gouvernance, périmètre, alignement, delivery) → Décision (continuer / redresser / arrêter, sans sunk cost) → Redressement
-- *IA agentique :* Où (volume × manuel × règles × risque) → Quelle valeur → Comment (pilote → échelle, human-in-the-loop) → Risques
-- *Post-fusion :* Synergies dépendantes de l'ERP → Options → Critères → Trajectoire (Day 1 / 100 j / vagues)
-- *Rentabilité :* Profit = (P × V) − (CF + CV), externe avant interne
-- *Question ouverte :* « Je vois ça en 3 axes… » + 1 phrase qui tranche
+**0-2 min :** pitch court. **2-7 :** un pilote réel, mesure des gains, rôle et maturité. **7-11 :** « Ce n'était donc pas nécessairement un agent ? » puis motivation. **11-14 :** leadership ou échec. **14-27 :** C8, marché et rentabilité. **27-30 :** questions.
 
-## ⑥ Mes 2 questions pour Olivier
-1. *« D'après votre expérience, qu'est-ce qui distingue un programme ERP qu'on peut encore redresser de celui qu'il vaut mieux arrêter ? »*
-2. *« Sur l'IA agentique dans l'ERP, vos clients en sont-ils encore aux pilotes, ou certains industrialisent-ils déjà ? Qu'est-ce qui bloque le passage à l'échelle ? »*
-(Réserve : *« Qu'est-ce qui vous a le plus surpris en passant du build chez Amadeus au conseil ? »*)
+Relance : « Donnez-moi la base du pourcentage. » Complication : demander la conclusion avec chiffres arrondis, sans relire tous les calculs.
 
-## ⑦ Pièges — réponses-flash
-- **Défaut :** j'ai eu du mal à déléguer → je fixe le cadre et je laisse faire.
-- **SAP / Dynamics ?** mêmes problèmes · je connais SAP (L'Oréal, compétition en avant-vente) · le poste n'est pas du paramétrage.
-- **Pas de conseil en strat ?** je fais déjà une partie du métier + je sais ce qui casse en vrai.
-- **Grade inférieur ?** « Ce qui compte, c'est la pente, pas le point de départ. »
-- **Salaire :** pas de chiffre → « je fais confiance à BCG, on en parlera avec les RH ».
-- **Autres process ?** quelques-uns, BCG est clairement la priorité.
-- **Jamais :** critiquer Infor · le mot « sauvé » · « nous » à la place de « je ».
+### Simulation C - Valeur et jugement de transformation
 
-## ⑧ Le mot de la fin (15 s)
-*« Merci pour cet échange. J'en ressors encore plus convaincu : ce poste, c'est l'intersection exacte de ce que j'ai construit sur le terrain et de là où je veux aller. Je serais très heureux de continuer. »*
+**0-3 min :** accueil et pitch. **3-7 :** pourquoi quitter Infor, adéquation. **7-11 :** arbitrage standard/spécifique. **11-14 :** autonomie, grade et apprentissage. **14-27 :** C4, fusion et synergies. **27-30 :** questions et clôture.
+
+Relance : « Un ERP commun est-il réellement nécessaire à cette synergie ? » Puis : « Je veux votre recommandation en trente secondes. »
+
+### Version alternative : beaucoup de fit, petit cas
+
+Pour vérifier la souplesse : 18 minutes de parcours et relances ; 8 minutes de C9 ou C10 ; 4 minutes de questions. Une discussion qui ressemble au fit peut déjà tester le raisonnement comme un cas. Ne force pas un framework visible à chaque réponse.
+
+## Prompt pour un partenaire IA pendant l'entraînement
+
+> « Fais une simulation de recrutement de trente minutes, entièrement en français, pour un candidat expérimenté au poste ERP Digital Strategy chez BCG Paris. Tu simules un interviewer ; tu ne prétends pas connaître les questions d'Olivier Ratier. Utilise le document 06 pour le cas choisi. Pose une seule question à la fois. Garde le corrigé caché. Donne les données progressivement en réponse à une demande pertinente ; apporte un indice si je bloque. Réserve environ treize minutes au cas et trois aux questions finales. Pose une relance sur ma contribution personnelle et une sur la mesure d'un gain. N'accepte pas un scénario fictif comme preuve de mon expérience. À la fin, évalue structure, quantitatif, jugement, écoute, synthèse, preuves et motivation. Cite les passages à corriger, puis fais-moi refaire le plus faible. »
+
+Cet usage concerne uniquement la préparation. Le jour de l'entretien, applique les consignes BCG de l'invitation et de la page France, qui excluent les aides externes. [Consignes d'entretien BCG France](https://careers.bcg.com/global/en/locations/france/the-case-interview).
 
 ---
 
-# PARTIE 2 — CONSEILS
+## Vingt exercices de calcul - sans calculatrice
 
-## A. La gestion des 30 minutes
+Écris l'équation et annonce l'unité. Vise la fiabilité avant la vitesse. Les durées de 30 à 60 secondes par exercice sont un repère pédagogique, pas un seuil BCG.
 
-| Minute | Bloc | Ta règle |
-|---|---|---|
-| 0-1 | Accueil | Sourire, « Bonjour Olivier, merci de prendre ce temps ». Laisse-le mener. |
-| 1-5 | Pitch | **90 s max**. Termine sur la transition vers BCG. |
-| 5-15 | Fit + « bon match ? » | **60-90 s par réponse**. Une histoire = un message. |
-| 15-27 | Cas | Les 5 étapes. **Parle à voix haute en permanence** : il évalue ton raisonnement, pas seulement ta réponse. |
-| 27-30 | Tes questions + fin | 2 questions max, puis le mot de la fin. |
-
-**Si le temps file :** raccourcis tes réponses fit, jamais le cas. Si Olivier te coupe, c'est normal — c'est un signe qu'il a eu ce qu'il voulait, pas un mauvais signe. Enchaîne.
-
-## B. Spécial visio (Zoom)
-
-**La veille :**
-- Teste Zoom (dernière version), le lien, ton micro, ta caméra. Fais un appel test avec un ami.
-- Prépare un **plan B** : téléphone chargé avec Zoom installé et partage de connexion possible.
-- Garde le **numéro / email de la RH** sous la main en cas de problème technique.
-
-**Le setup :**
-- **Caméra à hauteur des yeux**, visage bien éclairé de face (fenêtre ou lampe devant toi, jamais derrière).
-- **Fond neutre** et rangé (ou flou léger, pas de fond virtuel fantaisie).
-- **Casque ou écouteurs avec micro** (évite l'écho). Notifications coupées sur l'ordinateur et le téléphone.
-- **Papier + stylo** pour le cas (c'est plus naturel que de taper au clavier, et ça s'entend moins). Dis-le : « je prends quelques notes ».
-- Cette cheat sheet **imprimée à côté de l'écran**, pas sur le même écran que Zoom.
-- Un verre d'eau.
-
-**Pendant :**
-- **Regarde la caméra** quand tu parles (pas l'image d'Olivier) — c'est ce qui crée le contact visuel.
-- Parle **10% plus lentement** que d'habitude, articule. La visio écrase l'énergie : mets un peu plus d'énergie que d'ordinaire dans ta voix.
-- Pour le cas : annonce ta pause (« je prends une minute pour structurer ») puis **lis ta structure** clairement, en numérotant : « je vois quatre blocs : un… deux… »
-- Si tu n'entends pas bien : « pardon, la connexion a coupé, pouvez-vous répéter la dernière partie ? » — c'est normal en visio.
-- Connecte-toi **5 minutes avant** (10h55).
-
-**Tenue :** chemise ou tenue business (veste sans cravate, c'est très bien). Même en visio.
-
-## C. Le langage — sonner naturel et senior
-
-**À faire :**
-- **Annonce la structure** : « Je vois trois raisons… », « Deux choses… ». C'est ce qui fait « BCG ».
-- **La réponse d'abord**, les détails ensuite (pyramide de Minto).
-- **« Je »** pour tes actions ; « nous » seulement pour le résultat d'équipe.
-- **Chiffres + « so what »** : un chiffre seul ne vaut rien, son implication oui.
-- **Les silences courts** (2-3 s) avant de répondre à une question difficile : c'est de la maîtrise.
-- Si tu ne sais pas : « Je ne connais pas la réponse précise, mais je raisonnerais comme ça… » — puis raisonne. C'est ce qu'il veut voir.
-
-**À éviter :**
-- Le jargon gratuit et l'anglais à chaque phrase. Les termes du métier (go-live, cutover, business case) sont OK ; « on va leverager les synergies » non.
-- Les tics : « du coup », « en fait », « voilà », « genre ». Repère les tiens en t'enregistrant.
-- Les réponses en liste sans structure.
-- Le monologue : au bout de 90 s, arrête-toi. Il relancera s'il veut plus.
-- Le mot « sauvé » → dis **« redressé », « remis sur les rails », « sécurisé le go-live »**.
-- Le moindre mot négatif sur Infor, un client ou un collègue.
-
-## D. Ce qu'Olivier évalue vraiment (et comment le montrer)
-
-| Ce qu'il cherche | Comment tu le montres |
+| N° | Exercice |
 |---|---|
-| **Structure / esprit de synthèse** | Annoncer les buckets, MECE, la réponse d'abord |
-| **Profondeur réelle** | Détails concrets (comment tu as mesuré les 70%, ce qui a cassé, ce que tu as décidé) |
-| **Sens business** | Toujours relier une techno à une valeur chiffrée et à une décision |
-| **Leadership & impact** | Le « je », les décisions prises, les gens alignés |
-| **Maturité / humilité** | L'échec assumé, ce que tu dois apprendre (le standard BCG), l'écoute |
-| **Motivation sincère** | L'angle « en amont », pas le prestige |
-| **« Client-ready »** | Calme, clair, chaleureux. Pourrait-il te mettre devant un DAF demain ? |
+| 1 | 40 ETP à 60 k€ par an : coût total ? |
+| 2 | 30% de 600 000 factures ? |
+| 3 | 20 ETP à 80% de temps économisé + 20 à 50% : capacité ? |
+| 4 | Temps par dossier de 10 à 3 minutes : baisse relative ? |
+| 5 | 100 M€ × 2% × (60%-20%) : gain ? |
+| 6 | Investissement 1,5 M€ ; gain net stable 1 M€/an : payback sans ramp-up ? |
+| 7 | Même investissement ; année 1 à 0,3 M€, puis 1 M€/an : payback ? |
+| 8 | Taux de service de 96 à 84% : points et baisse relative ? |
+| 9 | 100 000 commandes à 84% ; 9 400 récupérées : nouveau taux ? |
+| 10 | 94% visé sur 100 000, 93 400 conformes : manque ? |
+| 11 | Prix 100, coût variable 60 : contribution ; puis prix 105 ? |
+| 12 | 96 000 unités avec contribution de 45 € : contribution totale ? |
+| 13 | Fixes 0,8 M€ ; prix 0,20 €, variable 0,05 € : volume seuil ? |
+| 14 | 3,1104 M de factures à 0,20 €, puis contribution à 0,15 € ? |
+| 15 | CA 730 M€ à crédit, DSO réduit de 5 jours, année 365 j : cash ? |
+| 16 | Coût annuel 365 M€, DIO réduit de 4 jours : stock libéré ? |
+| 17 | Stocks libérés 4 M€, portage évité à 8%/an : ponctuel et récurrent ? |
+| 18 | Marché 100 à 121 en deux ans : CAGR ? |
+| 19 | Deux ans à +10%, puis -10% : 100 devient combien ? |
+| 20 | VAN : investissement 100, flux 66 en an 1 et 72,6 en an 2, taux 10% ? |
 
-## E. Si quelque chose tourne mal
+### Corrigé
 
-- **Tu bloques sur le cas :** « Je prends un instant pour revenir à ma structure. » Relis tes buckets à voix haute, choisis le plus probable, avance. Tu peux aussi demander : « Est-ce que vous voulez que je creuse plutôt X ou Y ? »
-- **Erreur de calcul :** corrige-toi toi-même tranquillement (« attendez, je reprends — c'est 1,5 et pas 15 »). Se corriger est un **bon** signal.
-- **Olivier conteste ton hypothèse :** ne te braque pas et ne cède pas tout de suite. « C'est un bon point. Si c'est le cas, alors… » — ajuste en gardant la logique.
-- **Question inattendue :** reformule-la pour gagner 3 secondes, puis « je vois deux angles… ».
-- **Problème technique :** reste calme, écris dans le chat Zoom, appelle depuis ton téléphone. Ça arrive à tout le monde ; c'est ta réaction qu'on retient.
+1 : **2,4 M€/an**. 2 : **180 000**. 3 : **26 ETP**, 65% de capacité. 4 : **70%**, base dix minutes. 5 : **0,8 M€/an**.
 
-## F. Ton pitch en anglais (au cas où — 45 s)
+6 : **18 mois**, si le flux démarre immédiatement et est uniforme. 7 : **26,4 mois** depuis le début de la première année de bénéfices. 8 : **-12 points**, **-12,5%** relativement au taux initial. 9 : **93,4%**. 10 : **600 commandes**.
 
-> « Sure. I'm a Team Lead and Senior Consultant at Infor in Paris, on the M3 ERP. I lead a team of eight and I drive Infor France's AI agenda. My job is to make complex, international ERP transformations faster and more effective — from upfront framing with pre-sales, through target architecture, all the way to go-live. I've done more than eight go-lives, across five industries and fifteen countries. Over the last two years, I've moved strongly into AI: I led our first AI-accelerated delivery pilots and I'm building a roadmap of agents directly inside the ERP. I'm here because I want to bring that field experience upstream — to the strategic level, alongside executives. That's exactly what your practice does. »
+11 : **40 €**, puis **45 €**. 12 : **4,32 M€**. 13 : **5,333 M de factures/an**. 14 : revenu **0,62208 M€**, contribution **0,46656 M€**. 15 : **10 M€** ponctuels, approximation à périmètre constant.
 
----
+16 : **4 M€** ponctuels. 17 : **4 M€** de cash libéré une fois et **0,32 M€/an** de portage évité si ce coût est réellement évitable ; éviter les doubles comptes avec le financement. 18 : **10%/an**, car 1,1 au carré = 1,21. 19 : **108,9** : 100 × 1,1 × 1,1 × 0,9. 20 : **20**, car -100 + 66/1,1 + 72,6/1,21 = -100 + 60 + 60.
 
-## G. LE PLAN D'ENTRAÎNEMENT — DU LUNDI 12 AU MERCREDI 21 OCTOBRE
+## Petits drills de raisonnement - deux minutes chacun
 
-> **Principe :** un peu chaque jour, à l'oral, en t'enregistrant. Mieux vaut 45 minutes par jour pendant 9 jours qu'un marathon la veille.
-
-| Jour | Focus | À faire (≈ 45-60 min) |
-|---|---|---|
-| **Lun 12** | Tout lire | Lis les 5 documents une fois. Note les histoires **[À VALIDER]** qui ne te ressemblent pas → envoie-moi tes corrections. |
-| **Mar 13** | Pitch + Pourquoi BCG | Dis ton pitch 5 fois à voix haute, enregistre-toi. Coupe jusqu'à tenir en 90 s. Idem pour « pourquoi BCG ». |
-| **Mer 14** | Histoires fit (1) | H1, H2, H3, H4, H7 — chacune 3 fois à l'oral, en 60-90 s. |
-| **Jeu 15** | Cas 1 + Cas 2 | Énoncé seul, chrono, structure à voix haute. Compare avec le modèle. |
-| **Ven 16** | Cas 3 + Cas 8 (calcul) | Fais le calcul du Cas 8 sans calculatrice, puis ses variantes. |
-| **Sam 17** | Q&A + Doc 4 | Questions C1 et C2 (le doute, SAP) jusqu'à les maîtriser parfaitement. Relis le Document 4. Lis **un** article BCG sur l'IA ou l'ERP. |
-| **Dim 18** | Simulation complète n°1 | 30 min avec un ami (ou en t'enregistrant) : pitch + 3 fit + un cas que tu n'as **pas** relu depuis 3 jours + 2 questions. Note ce qui coince. |
-| **Lun 19** | Cas 7 + questions ouvertes + corrections | Travaille les points faibles de la simulation. Histoires H5, H8, H11, H12, H13. |
-| **Mar 20** | Simulation n°2 + logistique | Simulation complète sur Zoom (vraies conditions). Puis test technique, tenue prête, cheat sheet imprimée. **Soirée calme, couche-toi tôt.** |
-| **Mer 21** | Jour J | Voir la checklist ci-dessous. |
-
-**Pour les simulations :** demande à ton partenaire d'interrompre, de contester une hypothèse, et de te poser une question SAP. Si tu es seul, utilise une IA en mode vocal comme interviewer avec le Document 2.
-
-## H. LA CHECKLIST DU JOUR J
-
-**Le matin (8h-10h) :**
-- [ ] Petit-déjeuner normal, pas d'excès de café.
-- [ ] Relis **seulement** la Partie 1 de ce document (la cheat sheet). Rien de nouveau.
-- [ ] Dis ton pitch **2 fois** à voix haute, et « pourquoi BCG » **1 fois**.
-- [ ] Fais **un** petit calcul mental pour chauffer (ex. : 26 × 60 k€, 1,5 / 2 en mois).
-
-**10h30 :**
-- [ ] Ordinateur branché, Zoom à jour, notifications coupées, téléphone en silencieux (mais à portée pour le plan B).
-- [ ] Lumière, fond, caméra à hauteur des yeux, casque testé.
-- [ ] Papier, stylo, eau, cheat sheet imprimée.
-
-**10h55 :**
-- [ ] Connecté. Respire lentement 1 minute. Souris.
-
-**Après l'entretien :**
-- [ ] Note à chaud les questions posées et le cas (utile pour les rounds suivants).
-- [ ] Un court email de remerciement à la RH dans la journée (pas besoin d'en faire trop).
+**Investissement.** Nomme les quatre données qui feraient changer la décision. **Rentabilité.** Explique une baisse de profit avec hausse des volumes. **ERP.** Donne une raison valable de garder deux systèmes temporairement. **IA.** Donne un usage où un workflow est préférable. **Preuve.** Dis ce qui distingue ton résultat d'une corrélation ou d'une estimation.
 
 ---
 
-> **Dernier conseil.** Olivier ne cherche pas un candidat parfait. Il cherche quelqu'un qu'il pourrait mettre devant un client demain : **structuré, crédible, sincère, et agréable à travailler.** Tu as un parcours que peu de candidats ont — l'ERP en vrai, l'IA en production, le leadership. Ton seul travail le 21, c'est de le rendre **clair**. Bonne chance, Hamza.
+## Une grille d'entraînement, pas une grille BCG
+
+Sept dimensions, chacune de 0 à 3. **0 :** absent ou erreur non corrigée. **1 :** présent avec aide importante. **2 :** autonome mais irrégulier. **3 :** clair, fiable et adapté à la décision.
+
+| Dimension | Ce qu'il faut observer |
+|---|---|
+| Structure | Décision comprise, branches pertinentes, priorité explicite |
+| Quantitatif | Équation, unité, calcul, contrôle et impact sur la décision |
+| Jugement | Alternatives, vrais compromis, valeur et conditions de réussite |
+| Écoute | Intègre indices et faits nouveaux, répond à la question |
+| Synthèse | Réponse nette, deux preuves, risque et suite |
+| Preuves du parcours | Rôle personnel, résultat, mesure, limite et équipe |
+| Motivation et échange | Projet cohérent, curiosité, naturel, espace laissé |
+
+**Repère de préparation :** viser 17/21 ou plus sur deux simulations, sans 0 et sans erreur décisive non corrigée. Ce seuil est inventé pour organiser l'entraînement ; il ne prédit ni note ni offre. Si une dimension reste à 1, travaille son comportement précis.
+
+**Journal après chaque session :** date ; exercice ; score par dimension ; passage faible exact ; raison de l'erreur ; reprise faite ; changement à tester demain. Ne remplis pas le journal avec « être plus structuré » : écris, par exemple, « demander si le gain est déjà net du run avant de le soustraire ».
+
+## Si tu sens le stress monter
+
+Arrête une seconde le débit. Relis l'objectif. Dis ce que tu sais, ce qu'il manque et le test suivant. « Je reprends la décision à prendre : … » est plus utile qu'une longue explication du stress. Une erreur locale n'oblige pas à abandonner le cas.
+
+---
+
+## Fiche de révision - mercredi 21, avant l'appel
+
+**10h15-10h30.** Aucun nouveau contenu. Une version du pitch, une motivation, deux calculs faciles. Revoir les deux questions à poser.
+
+**10h30-10h45.** Ordinateur branché, caméra et micro testés, lumière, notifications coupées, eau, papier vierge et stylos. Téléphone chargé et contact RH pour un incident de connexion. Aucun outil d'assistance actif pendant l'entretien.
+
+**10h55.** Ouvrir le lien Zoom. Heure de référence : Paris, 11h00. Le 21 octobre est encore en CEST, UTC+2.
+
+**Mes repères à avoir en mémoire :** six ans chez Infor ; processus et architecture ; équipe de huit ; plus de huit mises en production ; T2V ; quatre pilotes Velocity Suite ; feuille de route agentique distincte.
+
+**Ma motivation :** élargir les décisions de transformation tout en gardant leur faisabilité opérationnelle.
+
+**Ma limite assumée :** expertise de mise en œuvre principalement M3 ; apprentissage SAP/Dynamics avec experts et formation ciblée.
+
+**Mon cas :** décision ; structure ; premier test ; données ; équation ; implication ; recommandation. Capacité n'est pas cash. Flux annuel n'est pas ponctuel. Une hypothèse doit pouvoir changer.
+
+**Mon échange :** réponses de 30 à 60 secondes ; histoire de 75 secondes ; une preuve, un compromis, un apprentissage. Répondre à la relance avant de revenir à mon message préparé.
+
+**Après l'appel.** Noter les questions, le cas, les chiffres et les points à améliorer. Un éventuel remerciement doit reprendre un vrai point de l'échange ; aucune promesse ou relance artificielle n'est nécessaire.
